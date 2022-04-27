@@ -8,3 +8,7 @@ git push -u origin main
 
 
 this commands will user for the code push to github
+
+cd d:
+git init
+git commit <code URl of the remote repo>
