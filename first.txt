@@ -7,4 +7,20 @@ git push -u origin main
 
 
 
-this commands will user for the code push to github
+
+ commands will user for the code push to github
+ 
+ 
+ 
+ 
+ 
+ cd d:
+ git init
+ git clone <code URL>
+ 
+ 
+ 
+ these commands will used to pull the code from github
+ 
+ 
+ 
